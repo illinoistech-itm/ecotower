@@ -1,2 +1,1 @@
-# aura
-Project Aura
+# EcoTower
